@@ -5,7 +5,7 @@
 // I had trouble figuring out how to determine the upper bound for binary search.
 // If I searched or went in linear fashion it would be a O(N) time which is not the expected time limit. 
 // I wasn’t sure how to logically set the maximum search limit without knowing the array size.
-//  To get those search limits I have used some resources. 
+//  To get those search limits I have used some external resources. 
 // Once the bounds were established, implementing binary search was straightforward.
 
 // Your code here along with comments explaining your approach in three sentences only:
